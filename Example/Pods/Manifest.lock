@@ -1,11 +1,11 @@
 PODS:
-  - Nimble (8.0.9)
-  - Quick (2.2.1)
+  - Nimble (9.2.1)
+  - Quick (4.0.0)
   - TKBadgeView (0.1.0)
 
 DEPENDENCIES:
-  - Nimble (~> 8.0.7)
-  - Quick (~> 2.2.0)
+  - Nimble
+  - Quick
   - TKBadgeView (from `../`)
 
 SPEC REPOS:
@@ -18,10 +18,10 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
-  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
-  TKBadgeView: e5d7757c8744c75c6d0c40217a1a827680c7e324
+  Nimble: e7e615c0335ee4bf5b0d786685451e62746117d5
+  Quick: 6473349e43b9271a8d43839d9ba1c442ed1b7ac4
+  TKBadgeView: 07173a5d341ef4f0b759977250b25fd44c46dc98
 
-PODFILE CHECKSUM: cd8c0476b0dc7da337c312bc5efe9d90d450b4f4
+PODFILE CHECKSUM: c5f2ae2d018c2fd089450ffcacfc098698d41bcf
 
 COCOAPODS: 1.11.2

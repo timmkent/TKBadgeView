@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TKBadgeView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TKBadgeView.'
+  s.summary          = 'This is Timm Kents Badge that can be used in MB NB and others.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

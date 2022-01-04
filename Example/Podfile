@@ -1,6 +1,6 @@
 use_frameworks!
 
-platform :ios, '9.0'
+platform :ios, '13.0'
 
 target 'TKBadgeView_Example' do
   pod 'TKBadgeView', :path => '../'
@@ -8,7 +8,7 @@ target 'TKBadgeView_Example' do
   target 'TKBadgeView_Tests' do
     inherit! :search_paths
 
-    pod 'Quick', '~> 2.2.0'
-    pod 'Nimble', '~> 8.0.7'
+    pod 'Quick'
+    pod 'Nimble'
   end
 end
