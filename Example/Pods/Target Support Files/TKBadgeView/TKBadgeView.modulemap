@@ -1,0 +1,6 @@
+framework module TKBadgeView {
+  umbrella header "TKBadgeView-umbrella.h"
+
+  export *
+  module * { export * }
+}

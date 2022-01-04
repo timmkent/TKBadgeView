@@ -1,0 +1,22 @@
+{
+  "name": "TKBadgeView",
+  "version": "0.1.0",
+  "summary": "A short description of TKBadgeView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/timmkent/TKBadgeView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "timmkent": "timm.kent@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/timmkent/TKBadgeView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TKBadgeView/Classes/**/*"
+}
